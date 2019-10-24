@@ -2,11 +2,15 @@ library(jsonlite)
 library(dplyr)
 library(tidyr)
 library(stringr)
+library(tidyverse)
+
+# LENDO E ORGANIZANDO CAMARA -------------------------------------------------------------------
 
 # Proposições relacionadas à PEC00619
-pec <- "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192459/relacionadas"
-json <- fromJSON(pec)
-prop_pec <- json$dados
+# pec <- "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192459/relacionadas"
+# json <- fromJSON(pec)
+# prop_pec <- json$dados
+prop_pec <- read_csv("../input//prop_psc.csv")
 
 # Proposições que são emendas na comissão, emenda aglutinativa de plenário ou emenda de redação
 emendas <- prop_pec %>% filter(siglaTipo == "EMC" | siglaTipo == "EMA" | siglaTipo == "ERD")
@@ -36,28 +40,59 @@ deputados <- deputados$dados
 autores_proponentes <- autores_proponentes %>%
   left_join(deputados, by = c('id_deputado' = 'id'))
 
+
+# PLOTANDO CAMARA ----------------------------------------------------------------
+
 # Quantidade de emendas propostas por partido
 autores_proponentes %>%
   group_by(siglaPartido) %>%
   summarise(n = n_distinct(id_emenda)) %>%
-  arrange(desc(n))
+  arrange(desc(n)) %>%
+  ggplot(aes(x=reorder(siglaPartido, n), y=n)) +
+  geom_col() +
+  coord_flip()
 
 # Quantidade de emendas propostas por partido (contando todos os parlamentares)
 autores_proponentes %>%
   group_by(siglaPartido) %>%
   summarise(n = n()) %>%
-  arrange(desc(n))
+  arrange(desc(n)) %>%
+  ggplot(aes(x=reorder(siglaPartido, n), y=n)) +
+  geom_col() +
+  coord_flip()
 
+# Lista e guarda  emendas em que o PT votou em bloco
 autores_proponentes %>% group_by(id_emenda) %>%
   summarise(n = n_distinct(id_deputado)) %>% arrange(desc(n))
+pt_emendas <- c("2205946","2205947", "2205948","2205949","2205950",
+                "2205951","2205952","2205954","2205953","2200893")
 
+# Quantidade de emendas propostas por parlamentar considerando todas do PT
 autores_proponentes %>%
   group_by(id_deputado, nome.x, siglaPartido) %>%
   summarise(n = n_distinct(id_emenda)) %>%
-  arrange(desc(n))
+  arrange(desc(n)) %>%
+  head(60) %>%
+  ggplot(aes(x=reorder(nome.x, n), y=n, fill=siglaPartido)) +
+  geom_col() +
+  coord_flip() +
+  theme(axis.text=element_text(size=6))
+
+# Quantidade de emendas propostas por parlamentar removendo as do PT
+autores_proponentes %>%
+  filter(!(id_emenda %in% pt_emendas)) %>%
+  group_by(id_deputado, nome.x, siglaPartido) %>%
+  summarise(n = n_distinct(id_emenda)) %>%
+  arrange(desc(n)) %>%
+  head(25) %>%
+  ggplot(aes(x=reorder(nome.x, n), y=n, fill=siglaPartido)) +
+  geom_col() +
+  geom_text(aes(label=siglaPartido)) +
+  coord_flip() +
+  theme(axis.text=element_text(size=6))
 
 
-# Emendas no Senado ----
+# LENDO E ORGANIZANDO SENADO ----------------------------------------------
 
 url <- "http://legis.senado.leg.br/dadosabertos/materia/emendas/137999"
 json <- fromJSON(url)
@@ -76,21 +111,7 @@ emendas_autor <- emendas %>% select(1:6) %>% left_join(dados) %>%
   janitor::clean_names()
 emendas_autor %>% glimpse()
 
-
-# Total de emendas por autor
-emendas_autor %>%
-  group_by(codigo_parlamentar, nome_parlamentar, sigla_partido_parlamentar) %>%
-  summarise(n = n_distinct(numero_emenda)) %>%
-  arrange(desc(n))
-
-# Total de emendas por partido
-emendas_autor %>%
-  group_by(sigla_partido_parlamentar) %>%
-  summarise(n = n_distinct(numero_emenda)) %>%
-  arrange(desc(n))
-emendas_autor %>% filter(is.na(sigla_partido_parlamentar)) %>% glimpse()
-
-# Alguns senadores estão sem o partido, buscar na api
+# Alguns senadores estÃ£o sem o partido, busca na API
 url <- "http://legis.senado.leg.br/dadosabertos/senador/lista/atual"
 json <- fromJSON(url)
 senadores <- json$ListaParlamentarEmExercicio$Parlamentares$Parlamentar$IdentificacaoParlamentar
@@ -103,17 +124,38 @@ emendas_autor <- emendas_autor %>%
 
 emendas_autor <- emendas_autor %>%
   mutate(sigla_partido_parlamentar = ifelse(is.na(sigla_partido_parlamentar.x),
-                                    sigla_partido_parlamentar.y,
-                                    sigla_partido_parlamentar.x))
+                                            sigla_partido_parlamentar.y,
+                                            sigla_partido_parlamentar.x))
 
-# Emendas por partido
+
+# PLOTANDO SENADO ---------------------------------------------------------
+
+# Quantidade de emendas propostas por partido
 emendas_autor %>%
   group_by(sigla_partido_parlamentar) %>%
   summarise(n = n_distinct(numero_emenda)) %>%
-  arrange(desc(n))
+  arrange(desc(n)) %>%
+  ggplot(aes(x=reorder(sigla_partido_parlamentar, n), y=n)) +
+  geom_col() +
+  coord_flip()
 
+# Quantidade de emendas propostas por partido (contando todos os parlamentares)
+emendas_autor %>%
+  group_by(sigla_partido_parlamentar) %>%
+  summarise(n = n()) %>%
+  arrange(desc(n)) %>%
+  ggplot(aes(x=reorder(sigla_partido_parlamentar, n), y=n)) +
+  geom_col() +
+  coord_flip()
 
-
-
-
-
+# Quantidade de emendas propostas por parlamentar
+emendas_autor %>%
+  group_by(codigo_parlamentar, nome_parlamentar.x, sigla_partido_parlamentar) %>%
+  summarise(n = n_distinct(numero_emenda)) %>%
+  arrange(desc(n)) %>%
+  head(25) %>%
+  ggplot(aes(x=reorder(nome_parlamentar.x, n), y=n, fill=sigla_partido_parlamentar)) +
+  geom_col() +
+  geom_text(aes(label=sigla_partido_parlamentar)) +
+  coord_flip() +
+  theme(axis.text=element_text(size=6))

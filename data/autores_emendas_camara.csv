@@ -1,0 +1,965 @@
+"","uri","nome","codTipo","tipo","ordemAssinatura","proponente","id_emenda","id_deputado"
+"1","https://dadosabertos.camara.leg.br/api/v2/deputados/204566","Marreca Filho",10000,"Deputado",1,1,2199624,204566
+"2","https://dadosabertos.camara.leg.br/api/v2/deputados/204518","Dr. Frederico",10000,"Deputado",1,1,2199625,204518
+"3","https://dadosabertos.camara.leg.br/api/v2/deputados/204566","Marreca Filho",10000,"Deputado",2,1,2199625,204566
+"4","https://dadosabertos.camara.leg.br/api/v2/deputados/160653","Roberto de Lucena",10000,"Deputado",1,1,2199779,160653
+"5","https://dadosabertos.camara.leg.br/api/v2/deputados/74317","Júlio Cesar",10000,"Deputado",1,1,2200218,74317
+"6","https://dadosabertos.camara.leg.br/api/v2/deputados/141518","Paulo Pereira da Silva",10000,"Deputado",1,1,2200893,141518
+"7","https://dadosabertos.camara.leg.br/api/v2/deputados/143084","Tiago Dimas",10000,"Deputado",13,1,2200893,143084
+"8","https://dadosabertos.camara.leg.br/api/v2/deputados/160512","Aureo Ribeiro",10000,"Deputado",3,1,2200893,160512
+"9","https://dadosabertos.camara.leg.br/api/v2/deputados/160632","Zé Silva",10000,"Deputado",12,1,2200893,160632
+"10","https://dadosabertos.camara.leg.br/api/v2/deputados/160665","Augusto Coutinho",10000,"Deputado",2,1,2200893,160665
+"11","https://dadosabertos.camara.leg.br/api/v2/deputados/160669","Genecias Noronha",10000,"Deputado",8,1,2200893,160669
+"12","https://dadosabertos.camara.leg.br/api/v2/deputados/204364","Eli Borges",10000,"Deputado",7,1,2200893,204364
+"13","https://dadosabertos.camara.leg.br/api/v2/deputados/204408","Gustinho Ribeiro",10000,"Deputado",9,1,2200893,204408
+"14","https://dadosabertos.camara.leg.br/api/v2/deputados/204432","Marina Santos",10000,"Deputado",11,1,2200893,204432
+"15","https://dadosabertos.camara.leg.br/api/v2/deputados/204434","Dra. Vanda Milani",10000,"Deputado",6,1,2200893,204434
+"16","https://dadosabertos.camara.leg.br/api/v2/deputados/204439","Dr. Leonardo",10000,"Deputado",5,1,2200893,204439
+"17","https://dadosabertos.camara.leg.br/api/v2/deputados/204475","Otaci Nascimento",10000,"Deputado",10,1,2200893,204475
+"18","https://dadosabertos.camara.leg.br/api/v2/deputados/204551","Bosco Saraiva",10000,"Deputado",4,1,2200893,204551
+"19","https://dadosabertos.camara.leg.br/api/v2/deputados/204500","Eduardo Costa",10000,"Deputado",1,1,2201763,204500
+"20","https://dadosabertos.camara.leg.br/api/v2/deputados/178836","Alan Rick",10000,"Deputado",1,1,2202176,178836
+"21","https://dadosabertos.camara.leg.br/api/v2/deputados/141450","Hugo Leal",10000,"Deputado",1,1,2203457,141450
+"22","https://dadosabertos.camara.leg.br/api/v2/deputados/74262","Carlos Sampaio",10000,"Deputado",1,1,2203499,74262
+"23","https://dadosabertos.camara.leg.br/api/v2/deputados/204490","Charlles Evangelista",10000,"Deputado",1,1,2203537,204490
+"24","https://dadosabertos.camara.leg.br/api/v2/deputados/164360","Carmen Zanotto",10000,"Deputado",2,1,2203548,164360
+"25","https://dadosabertos.camara.leg.br/api/v2/deputados/178832","Leandre",10000,"Deputado",1,1,2203548,178832
+"26","https://dadosabertos.camara.leg.br/api/v2/deputados/178946","Soraya Santos",10000,"Deputado",3,1,2203548,178946
+"27","https://dadosabertos.camara.leg.br/api/v2/deputados/178994","Dulce Miranda",10000,"Deputado",4,1,2203548,178994
+"28","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",6,1,2203548,204371
+"29","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",5,1,2203548,204534
+"30","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",12,1,2203549,74366
+"31","https://dadosabertos.camara.leg.br/api/v2/deputados/164359","Delegado Waldir",10000,"Deputado",6,1,2203549,164359
+"32","https://dadosabertos.camara.leg.br/api/v2/deputados/178881","Aluisio Mendes",10000,"Deputado",2,1,2203549,178881
+"33","https://dadosabertos.camara.leg.br/api/v2/deputados/204398","Felipe Francischini",10000,"Deputado",11,1,2203549,204398
+"34","https://dadosabertos.camara.leg.br/api/v2/deputados/204416","Sanderson",10000,"Deputado",10,1,2203549,204416
+"35","https://dadosabertos.camara.leg.br/api/v2/deputados/204451","Delegado Antônio Furtado",10000,"Deputado",4,1,2203549,204451
+"36","https://dadosabertos.camara.leg.br/api/v2/deputados/204472","José Medeiros",10000,"Deputado",8,1,2203549,204472
+"37","https://dadosabertos.camara.leg.br/api/v2/deputados/204477","Felício Laterça",10000,"Deputado",7,1,2203549,204477
+"38","https://dadosabertos.camara.leg.br/api/v2/deputados/204479","Nicoletti",10000,"Deputado",9,1,2203549,204479
+"39","https://dadosabertos.camara.leg.br/api/v2/deputados/204507","Carla Zambelli",10000,"Deputado",3,1,2203549,204507
+"40","https://dadosabertos.camara.leg.br/api/v2/deputados/204512","Delegado Marcelo Freitas",10000,"Deputado",1,1,2203549,204512
+"41","https://dadosabertos.camara.leg.br/api/v2/deputados/204569","Delegado Pablo",10000,"Deputado",5,1,2203549,204569
+"42","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",6,1,2203565,74366
+"43","https://dadosabertos.camara.leg.br/api/v2/deputados/160642","Pastor Eurico",10000,"Deputado",5,1,2203565,160642
+"44","https://dadosabertos.camara.leg.br/api/v2/deputados/178975","Baleia Rossi",10000,"Deputado",2,1,2203565,178975
+"45","https://dadosabertos.camara.leg.br/api/v2/deputados/204494","Fred Costa",10000,"Deputado",1,1,2203565,204494
+"46","https://dadosabertos.camara.leg.br/api/v2/deputados/204518","Dr. Frederico",10000,"Deputado",3,1,2203565,204518
+"47","https://dadosabertos.camara.leg.br/api/v2/deputados/204566","Marreca Filho",10000,"Deputado",4,1,2203565,204566
+"48","https://dadosabertos.camara.leg.br/api/v2/deputados/204522","Marco Bertaiolli",10000,"Deputado",1,1,2203631,204522
+"49","https://dadosabertos.camara.leg.br/api/v2/deputados/133968","Paulo Ramos",10000,"Deputado",10,1,2203690,133968
+"50","https://dadosabertos.camara.leg.br/api/v2/deputados/177282","Subtenente Gonzaga",10000,"Deputado",1,1,2203690,177282
+"51","https://dadosabertos.camara.leg.br/api/v2/deputados/204387","Sargento Fahur",10000,"Deputado",6,1,2203690,204387
+"52","https://dadosabertos.camara.leg.br/api/v2/deputados/204442","Gurgel",10000,"Deputado",5,1,2203690,204442
+"53","https://dadosabertos.camara.leg.br/api/v2/deputados/204487","Capitão Wagner",10000,"Deputado",7,1,2203690,204487
+"54","https://dadosabertos.camara.leg.br/api/v2/deputados/204514","Coronel Tadeu",10000,"Deputado",2,1,2203690,204514
+"55","https://dadosabertos.camara.leg.br/api/v2/deputados/204520","Cabo Junio Amaral",10000,"Deputado",9,1,2203690,204520
+"56","https://dadosabertos.camara.leg.br/api/v2/deputados/204531","Guilherme Derrite",10000,"Deputado",3,1,2203690,204531
+"57","https://dadosabertos.camara.leg.br/api/v2/deputados/204553","Pastor Sargento Isidório",10000,"Deputado",8,1,2203690,204553
+"58","https://dadosabertos.camara.leg.br/api/v2/deputados/204572","Capitão Alberto Neto",10000,"Deputado",4,1,2203690,204572
+"59","https://dadosabertos.camara.leg.br/api/v2/deputados/204372","Julio Cesar Ribeiro",10000,"Deputado",1,1,2204003,204372
+"60","https://dadosabertos.camara.leg.br/api/v2/deputados/164360","Carmen Zanotto",10000,"Deputado",4,1,2204224,164360
+"61","https://dadosabertos.camara.leg.br/api/v2/deputados/178946","Soraya Santos",10000,"Deputado",3,1,2204224,178946
+"62","https://dadosabertos.camara.leg.br/api/v2/deputados/178987","Orlando Silva",10000,"Deputado",2,1,2204224,178987
+"63","https://dadosabertos.camara.leg.br/api/v2/deputados/204359","Léo Moraes",10000,"Deputado",5,1,2204224,204359
+"64","https://dadosabertos.camara.leg.br/api/v2/deputados/204488","Célio Studart",10000,"Deputado",6,1,2204224,204488
+"65","https://dadosabertos.camara.leg.br/api/v2/deputados/204494","Fred Costa",10000,"Deputado",1,1,2204224,204494
+"66","https://dadosabertos.camara.leg.br/api/v2/deputados/204518","Dr. Frederico",10000,"Deputado",7,1,2204224,204518
+"67","https://dadosabertos.camara.leg.br/api/v2/deputados/178916","Daniel Coelho",10000,"Deputado",1,1,2204242,178916
+"68","https://dadosabertos.camara.leg.br/api/v2/deputados/204380","Celina Leão",10000,"Deputado",3,1,2204261,204380
+"69","https://dadosabertos.camara.leg.br/api/v2/deputados/204477","Felício Laterça",10000,"Deputado",5,1,2204261,204477
+"70","https://dadosabertos.camara.leg.br/api/v2/deputados/204487","Capitão Wagner",10000,"Deputado",2,1,2204261,204487
+"71","https://dadosabertos.camara.leg.br/api/v2/deputados/204512","Delegado Marcelo Freitas",10000,"Deputado",1,1,2204261,204512
+"72","https://dadosabertos.camara.leg.br/api/v2/deputados/204569","Delegado Pablo",10000,"Deputado",4,1,2204261,204569
+"73","https://dadosabertos.camara.leg.br/api/v2/deputados/141555","Vinicius Carvalho",10000,"Deputado",2,1,2204263,141555
+"74","https://dadosabertos.camara.leg.br/api/v2/deputados/178929","Diego Garcia",10000,"Deputado",1,1,2204263,178929
+"75","https://dadosabertos.camara.leg.br/api/v2/deputados/204456","Gutemberg Reis",10000,"Deputado",1,1,2204284,204456
+"76","https://dadosabertos.camara.leg.br/api/v2/deputados/160655","Ricardo Izar",10000,"Deputado",1,1,2204287,160655
+"77","https://dadosabertos.camara.leg.br/api/v2/deputados/90842","Santini",10000,"Deputado",1,1,2204310,90842
+"78","https://dadosabertos.camara.leg.br/api/v2/deputados/108338","Jaqueline Cassol",10000,"Deputado",1,1,2204443,108338
+"79","https://dadosabertos.camara.leg.br/api/v2/deputados/74655","Eduardo Barbosa",10000,"Deputado",1,1,2204456,74655
+"80","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",1,1,2204496,74366
+"81","https://dadosabertos.camara.leg.br/api/v2/deputados/136811","Afonso Hamm",10000,"Deputado",1,1,2204504,136811
+"82","https://dadosabertos.camara.leg.br/api/v2/deputados/133439","André Figueiredo",10000,"Deputado",1,1,2204506,133439
+"83","https://dadosabertos.camara.leg.br/api/v2/deputados/133439","André Figueiredo",10000,"Deputado",1,1,2204507,133439
+"84","https://dadosabertos.camara.leg.br/api/v2/deputados/204486","Mauro Benevides Filho",10000,"Deputado",2,1,2204507,204486
+"85","https://dadosabertos.camara.leg.br/api/v2/deputados/204476","Chiquinho Brazão",10000,"Deputado",1,1,2204571,204476
+"86","https://dadosabertos.camara.leg.br/api/v2/deputados/141427","Fábio Ramalho",10000,"Deputado",1,1,2204580,141427
+"87","https://dadosabertos.camara.leg.br/api/v2/deputados/141552","Valtenir Pereira",10000,"Deputado",1,1,2204582,141552
+"88","https://dadosabertos.camara.leg.br/api/v2/deputados/141552","Valtenir Pereira",10000,"Deputado",1,1,2204617,141552
+"89","https://dadosabertos.camara.leg.br/api/v2/deputados/141555","Vinicius Carvalho",10000,"Deputado",1,1,2204618,141555
+"90","https://dadosabertos.camara.leg.br/api/v2/deputados/141513","Bilac Pinto",10000,"Deputado",1,1,2204619,141513
+"91","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",1,1,2204621,74366
+"92","https://dadosabertos.camara.leg.br/api/v2/deputados/141427","Fábio Ramalho",10000,"Deputado",1,1,2204631,141427
+"93","https://dadosabertos.camara.leg.br/api/v2/deputados/204479","Nicoletti",10000,"Deputado",1,1,2204639,204479
+"94","https://dadosabertos.camara.leg.br/api/v2/deputados/204434","Dra. Vanda Milani",10000,"Deputado",1,1,2204658,204434
+"95","https://dadosabertos.camara.leg.br/api/v2/deputados/204381","Luis Miranda",10000,"Deputado",1,1,2204662,204381
+"96","https://dadosabertos.camara.leg.br/api/v2/deputados/204381","Luis Miranda",10000,"Deputado",1,1,2204663,204381
+"97","https://dadosabertos.camara.leg.br/api/v2/deputados/178836","Alan Rick",10000,"Deputado",1,1,2204672,178836
+"98","https://dadosabertos.camara.leg.br/api/v2/deputados/178829","Capitão Augusto",10000,"Deputado",1,1,2204748,178829
+"99","https://dadosabertos.camara.leg.br/api/v2/deputados/204380","Celina Leão",10000,"Deputado",1,1,2204749,204380
+"100","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",1,1,2204832,204383
+"101","https://dadosabertos.camara.leg.br/api/v2/deputados/141552","Valtenir Pereira",10000,"Deputado",1,1,2204833,141552
+"102","https://dadosabertos.camara.leg.br/api/v2/deputados/133439","André Figueiredo",10000,"Deputado",1,1,2204835,133439
+"103","https://dadosabertos.camara.leg.br/api/v2/deputados/204359","Léo Moraes",10000,"Deputado",1,1,2204836,204359
+"104","https://dadosabertos.camara.leg.br/api/v2/deputados/74585","Lincoln Portela",10000,"Deputado",1,1,2204837,74585
+"105","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",1,1,2204838,204383
+"106","https://dadosabertos.camara.leg.br/api/v2/deputados/74585","Lincoln Portela",10000,"Deputado",1,1,2204839,74585
+"107","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",1,1,2204840,204383
+"108","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",1,1,2204841,204383
+"109","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",1,1,2204842,204383
+"110","https://dadosabertos.camara.leg.br/api/v2/deputados/177282","Subtenente Gonzaga",10000,"Deputado",2,1,2204957,177282
+"111","https://dadosabertos.camara.leg.br/api/v2/deputados/178829","Capitão Augusto",10000,"Deputado",1,1,2204957,178829
+"112","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",1,1,2205023,74366
+"113","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",1,1,2205024,74366
+"114","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",1,1,2205160,74366
+"115","https://dadosabertos.camara.leg.br/api/v2/deputados/141552","Valtenir Pereira",10000,"Deputado",1,1,2205162,141552
+"116","https://dadosabertos.camara.leg.br/api/v2/deputados/177282","Subtenente Gonzaga",10000,"Deputado",1,1,2205163,177282
+"117","https://dadosabertos.camara.leg.br/api/v2/deputados/177282","Subtenente Gonzaga",10000,"Deputado",1,1,2205165,177282
+"118","https://dadosabertos.camara.leg.br/api/v2/deputados/204576","João Roma",10000,"Deputado",1,1,2205208,204576
+"119","https://dadosabertos.camara.leg.br/api/v2/deputados/178966","Geovania de Sá",10000,"Deputado",1,1,2205213,178966
+"120","https://dadosabertos.camara.leg.br/api/v2/deputados/178916","Daniel Coelho",10000,"Deputado",1,1,2205251,178916
+"121","https://dadosabertos.camara.leg.br/api/v2/deputados/160512","Aureo Ribeiro",10000,"Deputado",1,1,2205262,160512
+"122","https://dadosabertos.camara.leg.br/api/v2/deputados/178992","Vitor Lippi",10000,"Deputado",2,1,2205262,178992
+"123","https://dadosabertos.camara.leg.br/api/v2/deputados/116379","Darci de Matos",10000,"Deputado",1,1,2205280,116379
+"124","https://dadosabertos.camara.leg.br/api/v2/deputados/204366","Rodrigo Coelho",10000,"Deputado",1,1,2205343,204366
+"125","https://dadosabertos.camara.leg.br/api/v2/deputados/204366","Rodrigo Coelho",10000,"Deputado",1,1,2205344,204366
+"126","https://dadosabertos.camara.leg.br/api/v2/deputados/204366","Rodrigo Coelho",10000,"Deputado",1,1,2205345,204366
+"127","https://dadosabertos.camara.leg.br/api/v2/deputados/204366","Rodrigo Coelho",10000,"Deputado",1,1,2205352,204366
+"128","https://dadosabertos.camara.leg.br/api/v2/deputados/204366","Rodrigo Coelho",10000,"Deputado",1,1,2205353,204366
+"129","https://dadosabertos.camara.leg.br/api/v2/deputados/73460","Gustavo Fruet",10000,"Deputado",2,1,2205398,73460
+"130","https://dadosabertos.camara.leg.br/api/v2/deputados/133439","André Figueiredo",10000,"Deputado",1,1,2205398,133439
+"131","https://dadosabertos.camara.leg.br/api/v2/deputados/69871","Bacelar",10000,"Deputado",1,1,2205439,69871
+"132","https://dadosabertos.camara.leg.br/api/v2/deputados/116379","Darci de Matos",10000,"Deputado",1,1,2205451,116379
+"133","https://dadosabertos.camara.leg.br/api/v2/deputados/178881","Aluisio Mendes",10000,"Deputado",2,1,2205535,178881
+"134","https://dadosabertos.camara.leg.br/api/v2/deputados/204416","Sanderson",10000,"Deputado",1,1,2205535,204416
+"135","https://dadosabertos.camara.leg.br/api/v2/deputados/204477","Felício Laterça",10000,"Deputado",3,1,2205535,204477
+"136","https://dadosabertos.camara.leg.br/api/v2/deputados/204512","Delegado Marcelo Freitas",10000,"Deputado",4,1,2205535,204512
+"137","https://dadosabertos.camara.leg.br/api/v2/deputados/204569","Delegado Pablo",10000,"Deputado",5,1,2205535,204569
+"138","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2205543,160575
+"139","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2205545,160575
+"140","https://dadosabertos.camara.leg.br/api/v2/deputados/204477","Felício Laterça",10000,"Deputado",3,1,2205548,204477
+"141","https://dadosabertos.camara.leg.br/api/v2/deputados/204512","Delegado Marcelo Freitas",10000,"Deputado",1,1,2205548,204512
+"142","https://dadosabertos.camara.leg.br/api/v2/deputados/204569","Delegado Pablo",10000,"Deputado",2,1,2205548,204569
+"143","https://dadosabertos.camara.leg.br/api/v2/deputados/204527","Geninho Zuliani",10000,"Deputado",1,1,2205560,204527
+"144","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",1,1,2205564,141488
+"145","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",1,1,2205582,74366
+"146","https://dadosabertos.camara.leg.br/api/v2/deputados/204427","Fernando Rodolfo",10000,"Deputado",1,1,2205583,204427
+"147","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205588,204371
+"148","https://dadosabertos.camara.leg.br/api/v2/deputados/204377","Paula Belmonte",10000,"Deputado",2,1,2205588,204377
+"149","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",3,1,2205588,204534
+"150","https://dadosabertos.camara.leg.br/api/v2/deputados/178927","Aliel Machado",10000,"Deputado",3,1,2205590,178927
+"151","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205590,204371
+"152","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",4,1,2205590,204383
+"153","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",2,1,2205590,204534
+"154","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205591,204371
+"155","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",4,1,2205591,204383
+"156","https://dadosabertos.camara.leg.br/api/v2/deputados/204468","Joenia Wapichana",10000,"Deputado",3,1,2205591,204468
+"157","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",2,1,2205591,204534
+"158","https://dadosabertos.camara.leg.br/api/v2/deputados/178927","Aliel Machado",10000,"Deputado",4,1,2205592,178927
+"159","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205592,204371
+"160","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",2,1,2205592,204383
+"161","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",3,1,2205592,204534
+"162","https://dadosabertos.camara.leg.br/api/v2/deputados/178927","Aliel Machado",10000,"Deputado",2,1,2205593,178927
+"163","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205593,204371
+"164","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",4,1,2205593,204383
+"165","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",3,1,2205593,204534
+"166","https://dadosabertos.camara.leg.br/api/v2/deputados/74655","Eduardo Barbosa",10000,"Deputado",1,1,2205594,74655
+"167","https://dadosabertos.camara.leg.br/api/v2/deputados/204466","Tereza Nelma",10000,"Deputado",2,1,2205594,204466
+"168","https://dadosabertos.camara.leg.br/api/v2/deputados/178927","Aliel Machado",10000,"Deputado",3,1,2205595,178927
+"169","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205595,204371
+"170","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",4,1,2205595,204383
+"171","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",2,1,2205595,204534
+"172","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",1,1,2205596,204383
+"173","https://dadosabertos.camara.leg.br/api/v2/deputados/178829","Capitão Augusto",10000,"Deputado",1,1,2205599,178829
+"174","https://dadosabertos.camara.leg.br/api/v2/deputados/160528","Danilo Cabral",10000,"Deputado",1,1,2205605,160528
+"175","https://dadosabertos.camara.leg.br/api/v2/deputados/160528","Danilo Cabral",10000,"Deputado",1,1,2205608,160528
+"176","https://dadosabertos.camara.leg.br/api/v2/deputados/178959","Hiran Gonçalves",10000,"Deputado",1,1,2205610,178959
+"177","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",1,1,2205611,178857
+"178","https://dadosabertos.camara.leg.br/api/v2/deputados/160528","Danilo Cabral",10000,"Deputado",1,1,2205612,160528
+"179","https://dadosabertos.camara.leg.br/api/v2/deputados/178842","Jhc",10000,"Deputado",1,1,2205619,178842
+"180","https://dadosabertos.camara.leg.br/api/v2/deputados/204439","Dr. Leonardo",10000,"Deputado",2,1,2205621,204439
+"181","https://dadosabertos.camara.leg.br/api/v2/deputados/204494","Fred Costa",10000,"Deputado",1,1,2205621,204494
+"182","https://dadosabertos.camara.leg.br/api/v2/deputados/204439","Dr. Leonardo",10000,"Deputado",2,1,2205622,204439
+"183","https://dadosabertos.camara.leg.br/api/v2/deputados/204494","Fred Costa",10000,"Deputado",1,1,2205622,204494
+"184","https://dadosabertos.camara.leg.br/api/v2/deputados/178860","Paulo Azi",10000,"Deputado",1,1,2205625,178860
+"185","https://dadosabertos.camara.leg.br/api/v2/deputados/178860","Paulo Azi",10000,"Deputado",1,1,2205626,178860
+"186","https://dadosabertos.camara.leg.br/api/v2/deputados/178860","Paulo Azi",10000,"Deputado",1,1,2205627,178860
+"187","https://dadosabertos.camara.leg.br/api/v2/deputados/178939","Clarissa Garotinho",10000,"Deputado",1,1,2205628,178939
+"188","https://dadosabertos.camara.leg.br/api/v2/deputados/178939","Clarissa Garotinho",10000,"Deputado",1,1,2205629,178939
+"189","https://dadosabertos.camara.leg.br/api/v2/deputados/178939","Clarissa Garotinho",10000,"Deputado",1,1,2205630,178939
+"190","https://dadosabertos.camara.leg.br/api/v2/deputados/178939","Clarissa Garotinho",10000,"Deputado",1,1,2205631,178939
+"191","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","João Campos",10000,"Deputado",1,1,2205633,74366
+"192","https://dadosabertos.camara.leg.br/api/v2/deputados/204416","Sanderson",10000,"Deputado",2,1,2205633,204416
+"193","https://dadosabertos.camara.leg.br/api/v2/deputados/178977","Eduardo Cury",10000,"Deputado",1,1,2205635,178977
+"194","https://dadosabertos.camara.leg.br/api/v2/deputados/204429","João H. Campos",10000,"Deputado",1,1,2205636,204429
+"195","https://dadosabertos.camara.leg.br/api/v2/deputados/141421","Eduardo da Fonte",10000,"Deputado",1,1,2205638,141421
+"196","https://dadosabertos.camara.leg.br/api/v2/deputados/198783","Emanuel Pinheiro Neto",10000,"Deputado",1,1,2205640,198783
+"197","https://dadosabertos.camara.leg.br/api/v2/deputados/198783","Emanuel Pinheiro Neto",10000,"Deputado",1,1,2205641,198783
+"198","https://dadosabertos.camara.leg.br/api/v2/deputados/198783","Emanuel Pinheiro Neto",10000,"Deputado",1,1,2205642,198783
+"199","https://dadosabertos.camara.leg.br/api/v2/deputados/141421","Eduardo da Fonte",10000,"Deputado",1,1,2205643,141421
+"200","https://dadosabertos.camara.leg.br/api/v2/deputados/204466","Tereza Nelma",10000,"Deputado",1,1,2205653,204466
+"201","https://dadosabertos.camara.leg.br/api/v2/deputados/204517","Zé Vitor",10000,"Deputado",1,1,2205662,204517
+"202","https://dadosabertos.camara.leg.br/api/v2/deputados/204553","Pastor Sargento Isidório",10000,"Deputado",1,1,2205684,204553
+"203","https://dadosabertos.camara.leg.br/api/v2/deputados/74158","Mário Heringer",10000,"Deputado",1,1,2205692,74158
+"204","https://dadosabertos.camara.leg.br/api/v2/deputados/204483","Vilson da Fetaemg",10000,"Deputado",1,1,2205698,204483
+"205","https://dadosabertos.camara.leg.br/api/v2/deputados/160570","Jerônimo Goergen",10000,"Deputado",1,1,2205700,160570
+"206","https://dadosabertos.camara.leg.br/api/v2/deputados/160570","Jerônimo Goergen",10000,"Deputado",1,1,2205701,160570
+"207","https://dadosabertos.camara.leg.br/api/v2/deputados/160570","Jerônimo Goergen",10000,"Deputado",1,1,2205702,160570
+"208","https://dadosabertos.camara.leg.br/api/v2/deputados/160570","Jerônimo Goergen",10000,"Deputado",1,1,2205705,160570
+"209","https://dadosabertos.camara.leg.br/api/v2/deputados/160570","Jerônimo Goergen",10000,"Deputado",1,1,2205707,160570
+"210","https://dadosabertos.camara.leg.br/api/v2/deputados/160570","Jerônimo Goergen",10000,"Deputado",1,1,2205711,160570
+"211","https://dadosabertos.camara.leg.br/api/v2/deputados/204574","Junior Lourenço",10000,"Deputado",1,1,2205720,204574
+"212","https://dadosabertos.camara.leg.br/api/v2/deputados/204574","Junior Lourenço",10000,"Deputado",1,1,2205723,204574
+"213","https://dadosabertos.camara.leg.br/api/v2/deputados/204531","Guilherme Derrite",10000,"Deputado",1,1,2205727,204531
+"214","https://dadosabertos.camara.leg.br/api/v2/deputados/73531","Ivan Valente",10000,"Deputado",1,1,2205728,73531
+"215","https://dadosabertos.camara.leg.br/api/v2/deputados/74784","Luiza Erundina",10000,"Deputado",7,1,2205728,74784
+"216","https://dadosabertos.camara.leg.br/api/v2/deputados/76874","Marcelo Freixo",10000,"Deputado",8,1,2205728,76874
+"217","https://dadosabertos.camara.leg.br/api/v2/deputados/134812","Edmilson Rodrigues",10000,"Deputado",5,1,2205728,134812
+"218","https://dadosabertos.camara.leg.br/api/v2/deputados/152605","Glauber Braga",10000,"Deputado",6,1,2205728,152605
+"219","https://dadosabertos.camara.leg.br/api/v2/deputados/204407","Fernanda Melchionna",10000,"Deputado",2,1,2205728,204407
+"220","https://dadosabertos.camara.leg.br/api/v2/deputados/204464","Talíria Petrone",10000,"Deputado",10,1,2205728,204464
+"221","https://dadosabertos.camara.leg.br/api/v2/deputados/204509","Áurea Carolina",10000,"Deputado",3,1,2205728,204509
+"222","https://dadosabertos.camara.leg.br/api/v2/deputados/204535","Sâmia Bomfim",10000,"Deputado",9,1,2205728,204535
+"223","https://dadosabertos.camara.leg.br/api/v2/deputados/205548","David Miranda",10000,"Deputado",4,1,2205728,205548
+"224","https://dadosabertos.camara.leg.br/api/v2/deputados/73531","Ivan Valente",10000,"Deputado",1,1,2205731,73531
+"225","https://dadosabertos.camara.leg.br/api/v2/deputados/74784","Luiza Erundina",10000,"Deputado",7,1,2205731,74784
+"226","https://dadosabertos.camara.leg.br/api/v2/deputados/76874","Marcelo Freixo",10000,"Deputado",8,1,2205731,76874
+"227","https://dadosabertos.camara.leg.br/api/v2/deputados/134812","Edmilson Rodrigues",10000,"Deputado",5,1,2205731,134812
+"228","https://dadosabertos.camara.leg.br/api/v2/deputados/152605","Glauber Braga",10000,"Deputado",6,1,2205731,152605
+"229","https://dadosabertos.camara.leg.br/api/v2/deputados/204407","Fernanda Melchionna",10000,"Deputado",2,1,2205731,204407
+"230","https://dadosabertos.camara.leg.br/api/v2/deputados/204464","Talíria Petrone",10000,"Deputado",10,1,2205731,204464
+"231","https://dadosabertos.camara.leg.br/api/v2/deputados/204509","Áurea Carolina",10000,"Deputado",3,1,2205731,204509
+"232","https://dadosabertos.camara.leg.br/api/v2/deputados/204535","Sâmia Bomfim",10000,"Deputado",9,1,2205731,204535
+"233","https://dadosabertos.camara.leg.br/api/v2/deputados/205548","David Miranda",10000,"Deputado",4,1,2205731,205548
+"234","https://dadosabertos.camara.leg.br/api/v2/deputados/73531","Ivan Valente",10000,"Deputado",1,1,2205732,73531
+"235","https://dadosabertos.camara.leg.br/api/v2/deputados/74784","Luiza Erundina",10000,"Deputado",7,1,2205732,74784
+"236","https://dadosabertos.camara.leg.br/api/v2/deputados/76874","Marcelo Freixo",10000,"Deputado",8,1,2205732,76874
+"237","https://dadosabertos.camara.leg.br/api/v2/deputados/134812","Edmilson Rodrigues",10000,"Deputado",5,1,2205732,134812
+"238","https://dadosabertos.camara.leg.br/api/v2/deputados/152605","Glauber Braga",10000,"Deputado",6,1,2205732,152605
+"239","https://dadosabertos.camara.leg.br/api/v2/deputados/204407","Fernanda Melchionna",10000,"Deputado",2,1,2205732,204407
+"240","https://dadosabertos.camara.leg.br/api/v2/deputados/204464","Talíria Petrone",10000,"Deputado",10,1,2205732,204464
+"241","https://dadosabertos.camara.leg.br/api/v2/deputados/204509","Áurea Carolina",10000,"Deputado",3,1,2205732,204509
+"242","https://dadosabertos.camara.leg.br/api/v2/deputados/204535","Sâmia Bomfim",10000,"Deputado",9,1,2205732,204535
+"243","https://dadosabertos.camara.leg.br/api/v2/deputados/205548","David Miranda",10000,"Deputado",4,1,2205732,205548
+"244","https://dadosabertos.camara.leg.br/api/v2/deputados/73531","Ivan Valente",10000,"Deputado",1,1,2205733,73531
+"245","https://dadosabertos.camara.leg.br/api/v2/deputados/74784","Luiza Erundina",10000,"Deputado",7,1,2205733,74784
+"246","https://dadosabertos.camara.leg.br/api/v2/deputados/76874","Marcelo Freixo",10000,"Deputado",8,1,2205733,76874
+"247","https://dadosabertos.camara.leg.br/api/v2/deputados/134812","Edmilson Rodrigues",10000,"Deputado",5,1,2205733,134812
+"248","https://dadosabertos.camara.leg.br/api/v2/deputados/152605","Glauber Braga",10000,"Deputado",6,1,2205733,152605
+"249","https://dadosabertos.camara.leg.br/api/v2/deputados/204407","Fernanda Melchionna",10000,"Deputado",2,1,2205733,204407
+"250","https://dadosabertos.camara.leg.br/api/v2/deputados/204464","Talíria Petrone",10000,"Deputado",10,1,2205733,204464
+"251","https://dadosabertos.camara.leg.br/api/v2/deputados/204509","Áurea Carolina",10000,"Deputado",3,1,2205733,204509
+"252","https://dadosabertos.camara.leg.br/api/v2/deputados/204535","Sâmia Bomfim",10000,"Deputado",9,1,2205733,204535
+"253","https://dadosabertos.camara.leg.br/api/v2/deputados/205548","David Miranda",10000,"Deputado",4,1,2205733,205548
+"254","https://dadosabertos.camara.leg.br/api/v2/deputados/178981","Herculano Passos",10000,"Deputado",1,1,2205734,178981
+"255","https://dadosabertos.camara.leg.br/api/v2/deputados/204533","Idilvan Alencar",10000,"Deputado",1,1,2205737,204533
+"256","https://dadosabertos.camara.leg.br/api/v2/deputados/74262","Carlos Sampaio",10000,"Deputado",1,1,2205740,74262
+"257","https://dadosabertos.camara.leg.br/api/v2/deputados/74262","Carlos Sampaio",10000,"Deputado",1,1,2205741,74262
+"258","https://dadosabertos.camara.leg.br/api/v2/deputados/74262","Carlos Sampaio",10000,"Deputado",1,1,2205742,74262
+"259","https://dadosabertos.camara.leg.br/api/v2/deputados/156190","Marcel Van Hattem",10000,"Deputado",6,1,2205743,156190
+"260","https://dadosabertos.camara.leg.br/api/v2/deputados/204365","Gilson Marques",10000,"Deputado",4,1,2205743,204365
+"261","https://dadosabertos.camara.leg.br/api/v2/deputados/204461","Paulo Ganime",10000,"Deputado",7,1,2205743,204461
+"262","https://dadosabertos.camara.leg.br/api/v2/deputados/204516","Alexis Fonteyne",10000,"Deputado",3,1,2205743,204516
+"263","https://dadosabertos.camara.leg.br/api/v2/deputados/204519","Tiago Mitraud",10000,"Deputado",8,1,2205743,204519
+"264","https://dadosabertos.camara.leg.br/api/v2/deputados/204523","Lucas Gonzalez",10000,"Deputado",5,1,2205743,204523
+"265","https://dadosabertos.camara.leg.br/api/v2/deputados/204528","Adriana Ventura",10000,"Deputado",2,1,2205743,204528
+"266","https://dadosabertos.camara.leg.br/api/v2/deputados/204532","Vinicius Poit",10000,"Deputado",1,1,2205743,204532
+"267","https://dadosabertos.camara.leg.br/api/v2/deputados/156190","Marcel Van Hattem",10000,"Deputado",7,1,2205744,156190
+"268","https://dadosabertos.camara.leg.br/api/v2/deputados/204365","Gilson Marques",10000,"Deputado",6,1,2205744,204365
+"269","https://dadosabertos.camara.leg.br/api/v2/deputados/204461","Paulo Ganime",10000,"Deputado",5,1,2205744,204461
+"270","https://dadosabertos.camara.leg.br/api/v2/deputados/204516","Alexis Fonteyne",10000,"Deputado",3,1,2205744,204516
+"271","https://dadosabertos.camara.leg.br/api/v2/deputados/204519","Tiago Mitraud",10000,"Deputado",8,1,2205744,204519
+"272","https://dadosabertos.camara.leg.br/api/v2/deputados/204523","Lucas Gonzalez",10000,"Deputado",4,1,2205744,204523
+"273","https://dadosabertos.camara.leg.br/api/v2/deputados/204528","Adriana Ventura",10000,"Deputado",2,1,2205744,204528
+"274","https://dadosabertos.camara.leg.br/api/v2/deputados/204532","Vinicius Poit",10000,"Deputado",1,1,2205744,204532
+"275","https://dadosabertos.camara.leg.br/api/v2/deputados/204482","Euclydes Pettersen",10000,"Deputado",1,1,2205745,204482
+"276","https://dadosabertos.camara.leg.br/api/v2/deputados/141408","Cleber Verde",10000,"Deputado",1,1,2205747,141408
+"277","https://dadosabertos.camara.leg.br/api/v2/deputados/141408","Cleber Verde",10000,"Deputado",1,1,2205751,141408
+"278","https://dadosabertos.camara.leg.br/api/v2/deputados/141408","Cleber Verde",10000,"Deputado",1,1,2205752,141408
+"279","https://dadosabertos.camara.leg.br/api/v2/deputados/204367","Daniel Freitas",10000,"Deputado",1,1,2205759,204367
+"280","https://dadosabertos.camara.leg.br/api/v2/deputados/204454","Daniel Silveira",10000,"Deputado",1,1,2205762,204454
+"281","https://dadosabertos.camara.leg.br/api/v2/deputados/178854","Elmar Nascimento",10000,"Deputado",1,1,2205763,178854
+"282","https://dadosabertos.camara.leg.br/api/v2/deputados/74043","Wellington Roberto",10000,"Deputado",1,1,2205764,74043
+"283","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",2,1,2205764,74571
+"284","https://dadosabertos.camara.leg.br/api/v2/deputados/160518","Weliton Prado",10000,"Deputado",1,1,2205765,160518
+"285","https://dadosabertos.camara.leg.br/api/v2/deputados/160632","Zé Silva",10000,"Deputado",1,1,2205766,160632
+"286","https://dadosabertos.camara.leg.br/api/v2/deputados/73586","Júlio Delgado",10000,"Deputado",1,1,2205767,73586
+"287","https://dadosabertos.camara.leg.br/api/v2/deputados/204392","Francisco Jr.",10000,"Deputado",1,1,2205778,204392
+"288","https://dadosabertos.camara.leg.br/api/v2/deputados/204557","Sidney Leite",10000,"Deputado",1,1,2205779,204557
+"289","https://dadosabertos.camara.leg.br/api/v2/deputados/204557","Sidney Leite",10000,"Deputado",1,1,2205780,204557
+"290","https://dadosabertos.camara.leg.br/api/v2/deputados/204557","Sidney Leite",10000,"Deputado",1,1,2205783,204557
+"291","https://dadosabertos.camara.leg.br/api/v2/deputados/204557","Sidney Leite",10000,"Deputado",1,1,2205785,204557
+"292","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",1,1,2205786,178857
+"293","https://dadosabertos.camara.leg.br/api/v2/deputados/204487","Capitão Wagner",10000,"Deputado",1,1,2205789,204487
+"294","https://dadosabertos.camara.leg.br/api/v2/deputados/160527","Aguinaldo Ribeiro",10000,"Deputado",1,1,2205792,160527
+"295","https://dadosabertos.camara.leg.br/api/v2/deputados/74305","Roberto Pessoa",10000,"Deputado",1,1,2205795,74305
+"296","https://dadosabertos.camara.leg.br/api/v2/deputados/178921","Sebastião Oliveira",10000,"Deputado",1,1,2205799,178921
+"297","https://dadosabertos.camara.leg.br/api/v2/deputados/204436","Isnaldo Bulhões Jr.",10000,"Deputado",1,1,2205802,204436
+"298","https://dadosabertos.camara.leg.br/api/v2/deputados/178989","Renata Abreu",10000,"Deputado",1,1,2205809,178989
+"299","https://dadosabertos.camara.leg.br/api/v2/deputados/178989","Renata Abreu",10000,"Deputado",1,1,2205812,178989
+"300","https://dadosabertos.camara.leg.br/api/v2/deputados/178989","Renata Abreu",10000,"Deputado",1,1,2205814,178989
+"301","https://dadosabertos.camara.leg.br/api/v2/deputados/178931","Luciano Ducci",10000,"Deputado",1,1,2205815,178931
+"302","https://dadosabertos.camara.leg.br/api/v2/deputados/178931","Luciano Ducci",10000,"Deputado",1,1,2205816,178931
+"303","https://dadosabertos.camara.leg.br/api/v2/deputados/178931","Luciano Ducci",10000,"Deputado",1,1,2205818,178931
+"304","https://dadosabertos.camara.leg.br/api/v2/deputados/178931","Luciano Ducci",10000,"Deputado",1,1,2205821,178931
+"305","https://dadosabertos.camara.leg.br/api/v2/deputados/178931","Luciano Ducci",10000,"Deputado",1,1,2205822,178931
+"306","https://dadosabertos.camara.leg.br/api/v2/deputados/141552","Valtenir Pereira",10000,"Deputado",1,1,2205830,141552
+"307","https://dadosabertos.camara.leg.br/api/v2/deputados/178946","Soraya Santos",10000,"Deputado",1,1,2205832,178946
+"308","https://dadosabertos.camara.leg.br/api/v2/deputados/178946","Soraya Santos",10000,"Deputado",1,1,2205836,178946
+"309","https://dadosabertos.camara.leg.br/api/v2/deputados/178946","Soraya Santos",10000,"Deputado",1,1,2205839,178946
+"310","https://dadosabertos.camara.leg.br/api/v2/deputados/178946","Soraya Santos",10000,"Deputado",1,1,2205842,178946
+"311","https://dadosabertos.camara.leg.br/api/v2/deputados/157130","Túlio Gadêlha",10000,"Deputado",1,1,2205850,157130
+"312","https://dadosabertos.camara.leg.br/api/v2/deputados/74043","Wellington Roberto",10000,"Deputado",1,1,2205853,74043
+"313","https://dadosabertos.camara.leg.br/api/v2/deputados/74043","Wellington Roberto",10000,"Deputado",1,1,2205858,74043
+"314","https://dadosabertos.camara.leg.br/api/v2/deputados/141459","João Maia",10000,"Deputado",2,1,2205858,141459
+"315","https://dadosabertos.camara.leg.br/api/v2/deputados/198197","Greyce Elias",10000,"Deputado",1,1,2205861,198197
+"316","https://dadosabertos.camara.leg.br/api/v2/deputados/141516","Paulo Abi-Ackel",10000,"Deputado",1,1,2205863,141516
+"317","https://dadosabertos.camara.leg.br/api/v2/deputados/141411","Dagoberto Nogueira",10000,"Deputado",1,1,2205864,141411
+"318","https://dadosabertos.camara.leg.br/api/v2/deputados/141411","Dagoberto Nogueira",10000,"Deputado",1,1,2205866,141411
+"319","https://dadosabertos.camara.leg.br/api/v2/deputados/160588","Diego Andrade",10000,"Deputado",1,1,2205875,160588
+"320","https://dadosabertos.camara.leg.br/api/v2/deputados/204357","Rose Modesto",10000,"Deputado",4,1,2205876,204357
+"321","https://dadosabertos.camara.leg.br/api/v2/deputados/204421","Edna Henrique",10000,"Deputado",3,1,2205876,204421
+"322","https://dadosabertos.camara.leg.br/api/v2/deputados/204466","Tereza Nelma",10000,"Deputado",5,1,2205876,204466
+"323","https://dadosabertos.camara.leg.br/api/v2/deputados/204471","Mara Rocha",10000,"Deputado",1,1,2205876,204471
+"324","https://dadosabertos.camara.leg.br/api/v2/deputados/207176","Bia Cavassa",10000,"Deputado",2,1,2205876,207176
+"325","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",1,1,2205877,204428
+"326","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",1,1,2205878,204428
+"327","https://dadosabertos.camara.leg.br/api/v2/deputados/73586","Júlio Delgado",10000,"Deputado",1,1,2205880,73586
+"328","https://dadosabertos.camara.leg.br/api/v2/deputados/74044","Wilson Santiago",10000,"Deputado",11,1,2205882,74044
+"329","https://dadosabertos.camara.leg.br/api/v2/deputados/75431","Maurício Dziedricki",10000,"Deputado",6,1,2205882,75431
+"330","https://dadosabertos.camara.leg.br/api/v2/deputados/90201","Pedro Augusto Bezerra",10000,"Deputado",10,1,2205882,90201
+"331","https://dadosabertos.camara.leg.br/api/v2/deputados/90842","Santini",10000,"Deputado",8,1,2205882,90842
+"332","https://dadosabertos.camara.leg.br/api/v2/deputados/122974","Pedro Lucas Fernandes",10000,"Deputado",1,1,2205882,122974
+"333","https://dadosabertos.camara.leg.br/api/v2/deputados/133810","Marcelo Moraes",10000,"Deputado",5,1,2205882,133810
+"334","https://dadosabertos.camara.leg.br/api/v2/deputados/194260","Nivaldo Albuquerque",10000,"Deputado",9,1,2205882,194260
+"335","https://dadosabertos.camara.leg.br/api/v2/deputados/198783","Emanuel Pinheiro Neto",10000,"Deputado",4,1,2205882,198783
+"336","https://dadosabertos.camara.leg.br/api/v2/deputados/204410","Luisa Canziani",10000,"Deputado",3,1,2205882,204410
+"337","https://dadosabertos.camara.leg.br/api/v2/deputados/204500","Eduardo Costa",10000,"Deputado",2,1,2205882,204500
+"338","https://dadosabertos.camara.leg.br/api/v2/deputados/204538","Paulo Bengtson",10000,"Deputado",7,1,2205882,204538
+"339","https://dadosabertos.camara.leg.br/api/v2/deputados/204440","Christino Aureo",10000,"Deputado",1,1,2205885,204440
+"340","https://dadosabertos.camara.leg.br/api/v2/deputados/73801","Renildo Calheiros",10000,"Deputado",8,1,2205886,73801
+"341","https://dadosabertos.camara.leg.br/api/v2/deputados/73943","Perpétua Almeida",10000,"Deputado",4,1,2205886,73943
+"342","https://dadosabertos.camara.leg.br/api/v2/deputados/74057","Alice Portugal",10000,"Deputado",2,1,2205886,74057
+"343","https://dadosabertos.camara.leg.br/api/v2/deputados/74060","Daniel Almeida",10000,"Deputado",1,1,2205886,74060
+"344","https://dadosabertos.camara.leg.br/api/v2/deputados/74848","Jandira Feghali",10000,"Deputado",3,1,2205886,74848
+"345","https://dadosabertos.camara.leg.br/api/v2/deputados/81055","Márcio Jerry",10000,"Deputado",6,1,2205886,81055
+"346","https://dadosabertos.camara.leg.br/api/v2/deputados/160641","Professora Marcivania",10000,"Deputado",5,1,2205886,160641
+"347","https://dadosabertos.camara.leg.br/api/v2/deputados/178987","Orlando Silva",10000,"Deputado",7,1,2205886,178987
+"348","https://dadosabertos.camara.leg.br/api/v2/deputados/74060","Daniel Almeida",10000,"Deputado",1,1,2205887,74060
+"349","https://dadosabertos.camara.leg.br/api/v2/deputados/73801","Renildo Calheiros",10000,"Deputado",8,1,2205892,73801
+"350","https://dadosabertos.camara.leg.br/api/v2/deputados/73943","Perpétua Almeida",10000,"Deputado",4,1,2205892,73943
+"351","https://dadosabertos.camara.leg.br/api/v2/deputados/74057","Alice Portugal",10000,"Deputado",2,1,2205892,74057
+"352","https://dadosabertos.camara.leg.br/api/v2/deputados/74060","Daniel Almeida",10000,"Deputado",1,1,2205892,74060
+"353","https://dadosabertos.camara.leg.br/api/v2/deputados/74848","Jandira Feghali",10000,"Deputado",3,1,2205892,74848
+"354","https://dadosabertos.camara.leg.br/api/v2/deputados/81055","Márcio Jerry",10000,"Deputado",6,1,2205892,81055
+"355","https://dadosabertos.camara.leg.br/api/v2/deputados/160641","Professora Marcivania",10000,"Deputado",5,1,2205892,160641
+"356","https://dadosabertos.camara.leg.br/api/v2/deputados/178987","Orlando Silva",10000,"Deputado",7,1,2205892,178987
+"357","https://dadosabertos.camara.leg.br/api/v2/deputados/73801","Renildo Calheiros",10000,"Deputado",8,1,2205893,73801
+"358","https://dadosabertos.camara.leg.br/api/v2/deputados/73943","Perpétua Almeida",10000,"Deputado",4,1,2205893,73943
+"359","https://dadosabertos.camara.leg.br/api/v2/deputados/74057","Alice Portugal",10000,"Deputado",2,1,2205893,74057
+"360","https://dadosabertos.camara.leg.br/api/v2/deputados/74060","Daniel Almeida",10000,"Deputado",1,1,2205893,74060
+"361","https://dadosabertos.camara.leg.br/api/v2/deputados/74848","Jandira Feghali",10000,"Deputado",3,1,2205893,74848
+"362","https://dadosabertos.camara.leg.br/api/v2/deputados/81055","Márcio Jerry",10000,"Deputado",6,1,2205893,81055
+"363","https://dadosabertos.camara.leg.br/api/v2/deputados/160641","Professora Marcivania",10000,"Deputado",5,1,2205893,160641
+"364","https://dadosabertos.camara.leg.br/api/v2/deputados/178987","Orlando Silva",10000,"Deputado",7,1,2205893,178987
+"365","https://dadosabertos.camara.leg.br/api/v2/deputados/73801","Renildo Calheiros",10000,"Deputado",8,1,2205894,73801
+"366","https://dadosabertos.camara.leg.br/api/v2/deputados/73943","Perpétua Almeida",10000,"Deputado",4,1,2205894,73943
+"367","https://dadosabertos.camara.leg.br/api/v2/deputados/74057","Alice Portugal",10000,"Deputado",2,1,2205894,74057
+"368","https://dadosabertos.camara.leg.br/api/v2/deputados/74060","Daniel Almeida",10000,"Deputado",1,1,2205894,74060
+"369","https://dadosabertos.camara.leg.br/api/v2/deputados/74848","Jandira Feghali",10000,"Deputado",3,1,2205894,74848
+"370","https://dadosabertos.camara.leg.br/api/v2/deputados/81055","Márcio Jerry",10000,"Deputado",6,1,2205894,81055
+"371","https://dadosabertos.camara.leg.br/api/v2/deputados/160641","Professora Marcivania",10000,"Deputado",5,1,2205894,160641
+"372","https://dadosabertos.camara.leg.br/api/v2/deputados/178987","Orlando Silva",10000,"Deputado",7,1,2205894,178987
+"373","https://dadosabertos.camara.leg.br/api/v2/deputados/73801","Renildo Calheiros",10000,"Deputado",8,1,2205895,73801
+"374","https://dadosabertos.camara.leg.br/api/v2/deputados/73943","Perpétua Almeida",10000,"Deputado",4,1,2205895,73943
+"375","https://dadosabertos.camara.leg.br/api/v2/deputados/74057","Alice Portugal",10000,"Deputado",2,1,2205895,74057
+"376","https://dadosabertos.camara.leg.br/api/v2/deputados/74060","Daniel Almeida",10000,"Deputado",1,1,2205895,74060
+"377","https://dadosabertos.camara.leg.br/api/v2/deputados/74848","Jandira Feghali",10000,"Deputado",3,1,2205895,74848
+"378","https://dadosabertos.camara.leg.br/api/v2/deputados/81055","Márcio Jerry",10000,"Deputado",6,1,2205895,81055
+"379","https://dadosabertos.camara.leg.br/api/v2/deputados/160641","Professora Marcivania",10000,"Deputado",5,1,2205895,160641
+"380","https://dadosabertos.camara.leg.br/api/v2/deputados/178987","Orlando Silva",10000,"Deputado",7,1,2205895,178987
+"381","https://dadosabertos.camara.leg.br/api/v2/deputados/178975","Baleia Rossi",10000,"Deputado",1,1,2205899,178975
+"382","https://dadosabertos.camara.leg.br/api/v2/deputados/204536","Kim Kataguiri",10000,"Deputado",1,1,2205900,204536
+"383","https://dadosabertos.camara.leg.br/api/v2/deputados/160758","Domingos Sávio",10000,"Deputado",1,1,2205907,160758
+"384","https://dadosabertos.camara.leg.br/api/v2/deputados/146788","Marcelo Aro",10000,"Deputado",1,1,2205912,146788
+"385","https://dadosabertos.camara.leg.br/api/v2/deputados/146788","Marcelo Aro",10000,"Deputado",1,1,2205913,146788
+"386","https://dadosabertos.camara.leg.br/api/v2/deputados/143632","Domingos Neto",10000,"Deputado",1,1,2205914,143632
+"387","https://dadosabertos.camara.leg.br/api/v2/deputados/143632","Domingos Neto",10000,"Deputado",1,1,2205915,143632
+"388","https://dadosabertos.camara.leg.br/api/v2/deputados/74585","Lincoln Portela",10000,"Deputado",1,1,2205916,74585
+"389","https://dadosabertos.camara.leg.br/api/v2/deputados/204436","Isnaldo Bulhões Jr.",10000,"Deputado",1,1,2205917,204436
+"390","https://dadosabertos.camara.leg.br/api/v2/deputados/143084","Tiago Dimas",10000,"Deputado",1,1,2205918,143084
+"391","https://dadosabertos.camara.leg.br/api/v2/deputados/143084","Tiago Dimas",10000,"Deputado",1,1,2205919,143084
+"392","https://dadosabertos.camara.leg.br/api/v2/deputados/141411","Dagoberto Nogueira",10000,"Deputado",1,1,2205920,141411
+"393","https://dadosabertos.camara.leg.br/api/v2/deputados/141411","Dagoberto Nogueira",10000,"Deputado",1,1,2205921,141411
+"394","https://dadosabertos.camara.leg.br/api/v2/deputados/204397","Boca Aberta",10000,"Deputado",1,1,2205922,204397
+"395","https://dadosabertos.camara.leg.br/api/v2/deputados/204397","Boca Aberta",10000,"Deputado",1,1,2205923,204397
+"396","https://dadosabertos.camara.leg.br/api/v2/deputados/204385","Valdevan Noventa",10000,"Deputado",1,1,2205924,204385
+"397","https://dadosabertos.camara.leg.br/api/v2/deputados/204542","Denis Bezerra",10000,"Deputado",1,1,2205926,204542
+"398","https://dadosabertos.camara.leg.br/api/v2/deputados/204531","Guilherme Derrite",10000,"Deputado",1,1,2205929,204531
+"399","https://dadosabertos.camara.leg.br/api/v2/deputados/204380","Celina Leão",10000,"Deputado",1,1,2205930,204380
+"400","https://dadosabertos.camara.leg.br/api/v2/deputados/204542","Denis Bezerra",10000,"Deputado",1,1,2205931,204542
+"401","https://dadosabertos.camara.leg.br/api/v2/deputados/204514","Coronel Tadeu",10000,"Deputado",1,1,2205932,204514
+"402","https://dadosabertos.camara.leg.br/api/v2/deputados/160639","Professora Dorinha Seabra Rezende",10000,"Deputado",1,1,2205933,160639
+"403","https://dadosabertos.camara.leg.br/api/v2/deputados/160639","Professora Dorinha Seabra Rezende",10000,"Deputado",1,1,2205934,160639
+"404","https://dadosabertos.camara.leg.br/api/v2/deputados/160639","Professora Dorinha Seabra Rezende",10000,"Deputado",1,1,2205935,160639
+"405","https://dadosabertos.camara.leg.br/api/v2/deputados/160639","Professora Dorinha Seabra Rezende",10000,"Deputado",1,1,2205936,160639
+"406","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",1,1,2205937,209189
+"407","https://dadosabertos.camara.leg.br/api/v2/deputados/204427","Fernando Rodolfo",10000,"Deputado",1,1,2205938,204427
+"408","https://dadosabertos.camara.leg.br/api/v2/deputados/204427","Fernando Rodolfo",10000,"Deputado",1,1,2205939,204427
+"409","https://dadosabertos.camara.leg.br/api/v2/deputados/204427","Fernando Rodolfo",10000,"Deputado",1,1,2205941,204427
+"410","https://dadosabertos.camara.leg.br/api/v2/deputados/67138","Iracema Portella",10000,"Deputado",1,1,2205942,67138
+"411","https://dadosabertos.camara.leg.br/api/v2/deputados/67138","Iracema Portella",10000,"Deputado",1,1,2205943,67138
+"412","https://dadosabertos.camara.leg.br/api/v2/deputados/204563","Josimar Maranhãozinho",10000,"Deputado",1,1,2205944,204563
+"413","https://dadosabertos.camara.leg.br/api/v2/deputados/204563","Josimar Maranhãozinho",10000,"Deputado",1,1,2205945,204563
+"414","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205946,73433
+"415","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205946,73482
+"416","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",47,1,2205946,73604
+"417","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205946,73701
+"418","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205946,74156
+"419","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205946,74159
+"420","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205946,74160
+"421","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205946,74161
+"422","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",50,1,2205946,74283
+"423","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",46,1,2205946,74371
+"424","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",49,1,2205946,74376
+"425","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205946,74398
+"426","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205946,74400
+"427","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205946,74571
+"428","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205946,107283
+"429","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205946,132504
+"430","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205946,141335
+"431","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205946,141398
+"432","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205946,141470
+"433","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205946,141488
+"434","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205946,159237
+"435","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205946,160508
+"436","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205946,160535
+"437","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205946,160538
+"438","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205946,160556
+"439","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",51,1,2205946,160569
+"440","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205946,160575
+"441","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",54,1,2205946,160592
+"442","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205946,160604
+"443","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",48,1,2205946,160610
+"444","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205946,171617
+"445","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205946,171619
+"446","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205946,178857
+"447","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205946,178866
+"448","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205946,178873
+"449","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",52,1,2205946,178889
+"450","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",44,1,2205946,178925
+"451","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205946,178970
+"452","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205946,178986
+"453","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205946,188097
+"454","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205946,204370
+"455","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205946,204393
+"456","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205946,204426
+"457","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205946,204428
+"458","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205946,204453
+"459","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205946,204467
+"460","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",45,1,2205946,204480
+"461","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205946,204492
+"462","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205946,204495
+"463","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205946,204501
+"464","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205946,204503
+"465","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205946,204555
+"466","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",53,1,2205946,204559
+"467","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205946,209189
+"468","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205947,73433
+"469","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205947,73482
+"470","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",47,1,2205947,73604
+"471","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205947,73701
+"472","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205947,74156
+"473","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205947,74159
+"474","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205947,74160
+"475","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205947,74161
+"476","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",50,1,2205947,74283
+"477","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",46,1,2205947,74371
+"478","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",49,1,2205947,74376
+"479","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205947,74398
+"480","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205947,74400
+"481","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205947,74571
+"482","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205947,107283
+"483","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205947,132504
+"484","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205947,141335
+"485","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205947,141398
+"486","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205947,141470
+"487","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205947,141488
+"488","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205947,159237
+"489","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205947,160508
+"490","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205947,160535
+"491","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205947,160538
+"492","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205947,160556
+"493","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",51,1,2205947,160569
+"494","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205947,160575
+"495","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",54,1,2205947,160592
+"496","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205947,160604
+"497","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",48,1,2205947,160610
+"498","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205947,171617
+"499","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205947,171619
+"500","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205947,178857
+"501","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205947,178866
+"502","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205947,178873
+"503","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",52,1,2205947,178889
+"504","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",44,1,2205947,178925
+"505","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205947,178970
+"506","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205947,178986
+"507","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205947,188097
+"508","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205947,204370
+"509","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205947,204393
+"510","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205947,204426
+"511","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205947,204428
+"512","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205947,204453
+"513","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205947,204467
+"514","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",45,1,2205947,204480
+"515","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205947,204492
+"516","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205947,204495
+"517","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205947,204501
+"518","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205947,204503
+"519","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205947,204555
+"520","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",53,1,2205947,204559
+"521","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205947,209189
+"522","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",50,1,2205948,73433
+"523","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",37,1,2205948,73482
+"524","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",9,1,2205948,73604
+"525","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",48,1,2205948,73701
+"526","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",31,1,2205948,74156
+"527","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",21,1,2205948,74159
+"528","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",19,1,2205948,74160
+"529","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",13,1,2205948,74161
+"530","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",6,1,2205948,74283
+"531","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",10,1,2205948,74371
+"532","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",7,1,2205948,74376
+"533","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",27,1,2205948,74398
+"534","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205948,74400
+"535","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",23,1,2205948,74571
+"536","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",39,1,2205948,107283
+"537","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",42,1,2205948,132504
+"538","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",47,1,2205948,141335
+"539","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",44,1,2205948,141398
+"540","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",34,1,2205948,141470
+"541","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",16,1,2205948,141488
+"542","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",49,1,2205948,159237
+"543","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",54,1,2205948,160508
+"544","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",29,1,2205948,160535
+"545","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",46,1,2205948,160538
+"546","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",20,1,2205948,160556
+"547","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",5,1,2205948,160569
+"548","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",41,1,2205948,160575
+"549","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",2,1,2205948,160592
+"550","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",15,1,2205948,160604
+"551","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",8,1,2205948,160610
+"552","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",18,1,2205948,171617
+"553","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205948,171619
+"554","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",35,1,2205948,178857
+"555","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",30,1,2205948,178866
+"556","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",38,1,2205948,178873
+"557","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",4,1,2205948,178889
+"558","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",12,1,2205948,178925
+"559","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",36,1,2205948,178970
+"560","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",22,1,2205948,178986
+"561","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",25,1,2205948,188097
+"562","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",43,1,2205948,204370
+"563","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",40,1,2205948,204393
+"564","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",45,1,2205948,204426
+"565","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",26,1,2205948,204428
+"566","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",24,1,2205948,204453
+"567","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",14,1,2205948,204467
+"568","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",11,1,2205948,204480
+"569","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",17,1,2205948,204492
+"570","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",53,1,2205948,204495
+"571","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",52,1,2205948,204501
+"572","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",51,1,2205948,204503
+"573","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",33,1,2205948,204555
+"574","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",3,1,2205948,204559
+"575","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",32,1,2205948,209189
+"576","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205949,73433
+"577","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205949,73482
+"578","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",47,1,2205949,73604
+"579","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205949,73701
+"580","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205949,74156
+"581","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205949,74159
+"582","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205949,74160
+"583","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205949,74161
+"584","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",50,1,2205949,74283
+"585","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",46,1,2205949,74371
+"586","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",49,1,2205949,74376
+"587","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205949,74398
+"588","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205949,74400
+"589","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205949,74571
+"590","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205949,107283
+"591","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205949,132504
+"592","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205949,141335
+"593","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205949,141398
+"594","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205949,141470
+"595","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205949,141488
+"596","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205949,159237
+"597","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205949,160508
+"598","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205949,160535
+"599","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205949,160538
+"600","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205949,160556
+"601","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",51,1,2205949,160569
+"602","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205949,160575
+"603","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",54,1,2205949,160592
+"604","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205949,160604
+"605","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",48,1,2205949,160610
+"606","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205949,171617
+"607","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205949,171619
+"608","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205949,178857
+"609","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205949,178866
+"610","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205949,178873
+"611","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",52,1,2205949,178889
+"612","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",44,1,2205949,178925
+"613","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205949,178970
+"614","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205949,178986
+"615","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205949,188097
+"616","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205949,204370
+"617","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205949,204393
+"618","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205949,204426
+"619","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205949,204428
+"620","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205949,204453
+"621","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205949,204467
+"622","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",45,1,2205949,204480
+"623","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205949,204492
+"624","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205949,204495
+"625","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205949,204501
+"626","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205949,204503
+"627","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205949,204555
+"628","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",53,1,2205949,204559
+"629","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205949,209189
+"630","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205950,73433
+"631","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205950,73482
+"632","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",46,1,2205950,73604
+"633","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205950,73701
+"634","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205950,74156
+"635","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205950,74159
+"636","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205950,74160
+"637","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205950,74161
+"638","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",49,1,2205950,74283
+"639","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",45,1,2205950,74371
+"640","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",48,1,2205950,74376
+"641","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205950,74398
+"642","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205950,74400
+"643","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205950,74571
+"644","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205950,107283
+"645","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205950,132504
+"646","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205950,141335
+"647","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205950,141398
+"648","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205950,141470
+"649","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205950,141488
+"650","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205950,159237
+"651","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205950,160508
+"652","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205950,160535
+"653","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205950,160538
+"654","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205950,160556
+"655","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",50,1,2205950,160569
+"656","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205950,160575
+"657","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",53,1,2205950,160592
+"658","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205950,160604
+"659","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",47,1,2205950,160610
+"660","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205950,171617
+"661","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205950,171619
+"662","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205950,178857
+"663","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205950,178866
+"664","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205950,178873
+"665","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",51,1,2205950,178889
+"666","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",54,1,2205950,178925
+"667","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205950,178970
+"668","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205950,178986
+"669","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205950,188097
+"670","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205950,204370
+"671","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205950,204393
+"672","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205950,204426
+"673","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205950,204428
+"674","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205950,204453
+"675","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205950,204467
+"676","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",44,1,2205950,204480
+"677","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205950,204492
+"678","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205950,204495
+"679","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205950,204501
+"680","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205950,204503
+"681","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205950,204555
+"682","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",52,1,2205950,204559
+"683","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205950,209189
+"684","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205951,73433
+"685","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205951,73482
+"686","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",47,1,2205951,73604
+"687","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205951,73701
+"688","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205951,74156
+"689","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205951,74159
+"690","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205951,74160
+"691","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205951,74161
+"692","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",50,1,2205951,74283
+"693","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",46,1,2205951,74371
+"694","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",49,1,2205951,74376
+"695","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205951,74398
+"696","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205951,74400
+"697","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205951,74571
+"698","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205951,107283
+"699","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205951,132504
+"700","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205951,141335
+"701","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205951,141398
+"702","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205951,141470
+"703","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205951,141488
+"704","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205951,159237
+"705","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205951,160508
+"706","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205951,160535
+"707","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205951,160538
+"708","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205951,160556
+"709","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",51,1,2205951,160569
+"710","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205951,160575
+"711","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",54,1,2205951,160592
+"712","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205951,160604
+"713","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",48,1,2205951,160610
+"714","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205951,171617
+"715","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205951,171619
+"716","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205951,178857
+"717","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205951,178866
+"718","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205951,178873
+"719","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",52,1,2205951,178889
+"720","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",44,1,2205951,178925
+"721","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205951,178970
+"722","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205951,178986
+"723","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205951,188097
+"724","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205951,204370
+"725","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205951,204393
+"726","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205951,204426
+"727","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205951,204428
+"728","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205951,204453
+"729","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205951,204467
+"730","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",45,1,2205951,204480
+"731","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205951,204492
+"732","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205951,204495
+"733","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205951,204501
+"734","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205951,204503
+"735","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205951,204555
+"736","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",53,1,2205951,204559
+"737","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205951,209189
+"738","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205952,73433
+"739","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205952,73482
+"740","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",47,1,2205952,73604
+"741","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205952,73701
+"742","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205952,74156
+"743","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205952,74159
+"744","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205952,74160
+"745","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205952,74161
+"746","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",50,1,2205952,74283
+"747","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",46,1,2205952,74371
+"748","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",49,1,2205952,74376
+"749","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205952,74398
+"750","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205952,74400
+"751","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205952,74571
+"752","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205952,107283
+"753","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205952,132504
+"754","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205952,141335
+"755","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205952,141398
+"756","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205952,141470
+"757","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205952,141488
+"758","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205952,159237
+"759","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205952,160508
+"760","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205952,160535
+"761","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205952,160538
+"762","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205952,160556
+"763","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",51,1,2205952,160569
+"764","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205952,160575
+"765","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",54,1,2205952,160592
+"766","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205952,160604
+"767","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",48,1,2205952,160610
+"768","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205952,171617
+"769","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205952,171619
+"770","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205952,178857
+"771","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205952,178866
+"772","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205952,178873
+"773","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",52,1,2205952,178889
+"774","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",44,1,2205952,178925
+"775","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205952,178970
+"776","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205952,178986
+"777","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205952,188097
+"778","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205952,204370
+"779","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205952,204393
+"780","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205952,204426
+"781","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205952,204428
+"782","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205952,204453
+"783","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205952,204467
+"784","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",45,1,2205952,204480
+"785","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205952,204492
+"786","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205952,204495
+"787","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205952,204501
+"788","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205952,204503
+"789","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205952,204555
+"790","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",53,1,2205952,204559
+"791","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205952,209189
+"792","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205953,73433
+"793","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205953,73482
+"794","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",46,1,2205953,73604
+"795","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205953,73701
+"796","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205953,74156
+"797","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205953,74159
+"798","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205953,74160
+"799","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205953,74161
+"800","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",49,1,2205953,74283
+"801","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",45,1,2205953,74371
+"802","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",48,1,2205953,74376
+"803","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205953,74398
+"804","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205953,74400
+"805","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205953,74571
+"806","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205953,107283
+"807","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205953,132504
+"808","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205953,141335
+"809","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205953,141398
+"810","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205953,141470
+"811","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205953,141488
+"812","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205953,159237
+"813","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205953,160508
+"814","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205953,160535
+"815","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205953,160538
+"816","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205953,160556
+"817","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",50,1,2205953,160569
+"818","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205953,160575
+"819","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",53,1,2205953,160592
+"820","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205953,160604
+"821","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",47,1,2205953,160610
+"822","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205953,171617
+"823","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205953,171619
+"824","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205953,178857
+"825","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205953,178866
+"826","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205953,178873
+"827","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",51,1,2205953,178889
+"828","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205953,178970
+"829","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205953,178986
+"830","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205953,188097
+"831","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205953,204370
+"832","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205953,204393
+"833","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205953,204426
+"834","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205953,204428
+"835","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205953,204453
+"836","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205953,204467
+"837","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",44,1,2205953,204480
+"838","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205953,204492
+"839","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205953,204495
+"840","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205953,204501
+"841","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205953,204503
+"842","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205953,204555
+"843","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",52,1,2205953,204559
+"844","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205953,209189
+"845","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","Arlindo Chinaglia",10000,"Deputado",6,1,2205954,73433
+"846","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","Henrique Fontana",10000,"Deputado",19,1,2205954,73482
+"847","https://dadosabertos.camara.leg.br/api/v2/deputados/73604","Rui Falcão",10000,"Deputado",47,1,2205954,73604
+"848","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","Benedita da Silva",10000,"Deputado",8,1,2205954,73701
+"849","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",25,1,2205954,74156
+"850","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","Odair Cunha",10000,"Deputado",35,1,2205954,74159
+"851","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","Patrus Ananias",10000,"Deputado",37,1,2205954,74160
+"852","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","Reginaldo Lopes",10000,"Deputado",43,1,2205954,74161
+"853","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","Vicentinho",10000,"Deputado",50,1,2205954,74283
+"854","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","Rubens Otoni",10000,"Deputado",46,1,2205954,74371
+"855","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","Vander Loubet",10000,"Deputado",49,1,2205954,74376
+"856","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","Maria do Rosário",10000,"Deputado",29,1,2205954,74398
+"857","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","Paulo Pimenta",10000,"Deputado",1,1,2205954,74400
+"858","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","Nelson Pellegrino",10000,"Deputado",33,1,2205954,74571
+"859","https://dadosabertos.camara.leg.br/api/v2/deputados/107283","Gleisi Hoffmann",10000,"Deputado",17,1,2205954,107283
+"860","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","Enio Verri",10000,"Deputado",14,1,2205954,132504
+"861","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","Beto Faro",10000,"Deputado",9,1,2205954,141335
+"862","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","Carlos Zarattini",10000,"Deputado",12,1,2205954,141398
+"863","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","José Guimarães",10000,"Deputado",22,1,2205954,141470
+"864","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","Paulo Teixeira",10000,"Deputado",40,1,2205954,141488
+"865","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","Assis Carvalho",10000,"Deputado",7,1,2205954,159237
+"866","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","Afonso Florence",10000,"Deputado",2,1,2205954,160508
+"867","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","Marcon",10000,"Deputado",27,1,2205954,160535
+"868","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","Bohn Gass",10000,"Deputado",10,1,2205954,160538
+"869","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",36,1,2205954,160556
+"870","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","Waldenor Pereira",10000,"Deputado",51,1,2205954,160569
+"871","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",15,1,2205954,160575
+"872","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","Zeca Dirceu",10000,"Deputado",54,1,2205954,160592
+"873","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","Pedro Uczai",10000,"Deputado",41,1,2205954,160604
+"874","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","Valmir Assunção",10000,"Deputado",48,1,2205954,160610
+"875","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","Paulão",10000,"Deputado",38,1,2205954,171617
+"876","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","Margarida Salomão",10000,"Deputado",28,1,2205954,171619
+"877","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","Jorge Solla",10000,"Deputado",21,1,2205954,178857
+"878","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","Luizianne Lins",10000,"Deputado",26,1,2205954,178866
+"879","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","Helder Salomão",10000,"Deputado",18,1,2205954,178873
+"880","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","Zé Carlos",10000,"Deputado",52,1,2205954,178889
+"881","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","Rejane Dias",10000,"Deputado",44,1,2205954,178925
+"882","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","João Daniel",10000,"Deputado",20,1,2205954,178970
+"883","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","Nilto Tatto",10000,"Deputado",34,1,2205954,178986
+"884","https://dadosabertos.camara.leg.br/api/v2/deputados/188097","Merlong Solano",10000,"Deputado",31,1,2205954,188097
+"885","https://dadosabertos.camara.leg.br/api/v2/deputados/204370","Célio Moura",10000,"Deputado",13,1,2205954,204370
+"886","https://dadosabertos.camara.leg.br/api/v2/deputados/204393","Frei Anastacio Ribeiro",10000,"Deputado",16,1,2205954,204393
+"887","https://dadosabertos.camara.leg.br/api/v2/deputados/204426","Carlos Veras",10000,"Deputado",11,1,2205954,204426
+"888","https://dadosabertos.camara.leg.br/api/v2/deputados/204428","Marília Arraes",10000,"Deputado",30,1,2205954,204428
+"889","https://dadosabertos.camara.leg.br/api/v2/deputados/204453","Natália Bonavides",10000,"Deputado",32,1,2205954,204453
+"890","https://dadosabertos.camara.leg.br/api/v2/deputados/204467","Professora Rosa Neide",10000,"Deputado",42,1,2205954,204467
+"891","https://dadosabertos.camara.leg.br/api/v2/deputados/204480","Rogério Correia",10000,"Deputado",45,1,2205954,204480
+"892","https://dadosabertos.camara.leg.br/api/v2/deputados/204492","Paulo Guedes",10000,"Deputado",39,1,2205954,204492
+"893","https://dadosabertos.camara.leg.br/api/v2/deputados/204495","Airton Faleiro",10000,"Deputado",3,1,2205954,204495
+"894","https://dadosabertos.camara.leg.br/api/v2/deputados/204501","Alencar Santana Braga",10000,"Deputado",4,1,2205954,204501
+"895","https://dadosabertos.camara.leg.br/api/v2/deputados/204503","Alexandre Padilha",10000,"Deputado",5,1,2205954,204503
+"896","https://dadosabertos.camara.leg.br/api/v2/deputados/204555","José Ricardo",10000,"Deputado",23,1,2205954,204555
+"897","https://dadosabertos.camara.leg.br/api/v2/deputados/204559","Zé Neto",10000,"Deputado",53,1,2205954,204559
+"898","https://dadosabertos.camara.leg.br/api/v2/deputados/209189","Joseildo Ramos",10000,"Deputado",24,1,2205954,209189
+"899","https://dadosabertos.camara.leg.br/api/v2/deputados/178882","André Fufuca",10000,"Deputado",1,1,2205955,178882
+"900","https://dadosabertos.camara.leg.br/api/v2/deputados/204487","Capitão Wagner",10000,"Deputado",1,1,2205956,204487
+"901","https://dadosabertos.camara.leg.br/api/v2/deputados/178959","Hiran Gonçalves",10000,"Deputado",1,1,2205957,178959
+"902","https://dadosabertos.camara.leg.br/api/v2/deputados/204463","Wladimir Garotinho",10000,"Deputado",1,1,2205958,204463
+"903","https://dadosabertos.camara.leg.br/api/v2/deputados/204463","Wladimir Garotinho",10000,"Deputado",1,1,2205959,204463
+"904","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","Leonardo Monteiro",10000,"Deputado",1,1,2205960,74156
+"905","https://dadosabertos.camara.leg.br/api/v2/deputados/74044","Wilson Santiago",10000,"Deputado",2,1,2205961,74044
+"906","https://dadosabertos.camara.leg.br/api/v2/deputados/204500","Eduardo Costa",10000,"Deputado",1,1,2205961,204500
+"907","https://dadosabertos.camara.leg.br/api/v2/deputados/204500","Eduardo Costa",10000,"Deputado",1,1,2205962,204500
+"908","https://dadosabertos.camara.leg.br/api/v2/deputados/204500","Eduardo Costa",10000,"Deputado",1,1,2205964,204500
+"909","https://dadosabertos.camara.leg.br/api/v2/deputados/204500","Eduardo Costa",10000,"Deputado",1,1,2205965,204500
+"910","https://dadosabertos.camara.leg.br/api/v2/deputados/73486","Pompeo de Mattos",10000,"Deputado",1,1,2205966,73486
+"911","https://dadosabertos.camara.leg.br/api/v2/deputados/73486","Pompeo de Mattos",10000,"Deputado",1,1,2205967,73486
+"912","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205968,178922
+"913","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205969,178922
+"914","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205970,178922
+"915","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205971,178922
+"916","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205972,178922
+"917","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205973,178922
+"918","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205974,178922
+"919","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","Tadeu Alencar",10000,"Deputado",1,1,2205975,178922
+"920","https://dadosabertos.camara.leg.br/api/v2/deputados/204354","Flávia Arruda",10000,"Deputado",1,1,2205976,204354
+"921","https://dadosabertos.camara.leg.br/api/v2/deputados/204354","Flávia Arruda",10000,"Deputado",1,1,2205977,204354
+"922","https://dadosabertos.camara.leg.br/api/v2/deputados/204354","Flávia Arruda",10000,"Deputado",1,1,2205978,204354
+"923","https://dadosabertos.camara.leg.br/api/v2/deputados/204359","Léo Moraes",10000,"Deputado",1,1,2205979,204359
+"924","https://dadosabertos.camara.leg.br/api/v2/deputados/204359","Léo Moraes",10000,"Deputado",1,1,2205980,204359
+"925","https://dadosabertos.camara.leg.br/api/v2/deputados/204359","Léo Moraes",10000,"Deputado",1,1,2205981,204359
+"926","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205982,204371
+"927","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",2,1,2205982,204534
+"928","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205983,204371
+"929","https://dadosabertos.camara.leg.br/api/v2/deputados/204383","Professor Israel Batista",10000,"Deputado",3,1,2205983,204383
+"930","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",2,1,2205983,204534
+"931","https://dadosabertos.camara.leg.br/api/v2/deputados/204371","Felipe Rigoni",10000,"Deputado",1,1,2205984,204371
+"932","https://dadosabertos.camara.leg.br/api/v2/deputados/204534","Tabata Amaral",10000,"Deputado",2,1,2205984,204534
+"933","https://dadosabertos.camara.leg.br/api/v2/deputados/160639","Professora Dorinha Seabra Rezende",10000,"Deputado",1,1,2205985,160639
+"934","https://dadosabertos.camara.leg.br/api/v2/deputados/141555","Vinicius Carvalho",10000,"Deputado",1,1,2205986,141555
+"935","https://dadosabertos.camara.leg.br/api/v2/deputados/204372","Julio Cesar Ribeiro",10000,"Deputado",1,1,2205987,204372
+"936","https://dadosabertos.camara.leg.br/api/v2/deputados/122158","Pedro Paulo",10000,"Deputado",1,1,2205988,122158
+"937","https://dadosabertos.camara.leg.br/api/v2/deputados/204537","Enrico Misasi",10000,"Deputado",1,1,2205989,204537
+"938","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",1,1,2205990,160556
+"939","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","Padre João",10000,"Deputado",1,1,2205991,160556
+"940","https://dadosabertos.camara.leg.br/api/v2/deputados/178884","Hildo Rocha",10000,"Deputado",1,1,2205992,178884
+"941","https://dadosabertos.camara.leg.br/api/v2/deputados/204496","Celso Sabino",10000,"Deputado",1,1,2205993,204496
+"942","https://dadosabertos.camara.leg.br/api/v2/deputados/178884","Hildo Rocha",10000,"Deputado",1,1,2205994,178884
+"943","https://dadosabertos.camara.leg.br/api/v2/deputados/178964","Heitor Schuch",10000,"Deputado",1,1,2205995,178964
+"944","https://dadosabertos.camara.leg.br/api/v2/deputados/191923","Flavio Nogueira",10000,"Deputado",1,1,2205996,191923
+"945","https://dadosabertos.camara.leg.br/api/v2/deputados/156190","Marcel Van Hattem",10000,"Deputado",1,1,2211588,156190
+"946","https://dadosabertos.camara.leg.br/api/v2/deputados/90842","Santini",10000,"Deputado",1,1,2211592,90842
+"947","https://dadosabertos.camara.leg.br/api/v2/deputados/156190","Marcel Van Hattem",10000,"Deputado",1,1,2211606,156190
+"948","https://dadosabertos.camara.leg.br/api/v2/deputados/133439","André Figueiredo",10000,"Deputado",1,1,2211612,133439
+"949","https://dadosabertos.camara.leg.br/api/v2/deputados/178854","Elmar Nascimento",10000,"Deputado",1,1,2211631,178854
+"950","https://dadosabertos.camara.leg.br/api/v2/deputados/178975","Baleia Rossi",10000,"Deputado",1,1,2211700,178975
+"951","https://dadosabertos.camara.leg.br/api/v2/deputados/178854","Elmar Nascimento",10000,"Deputado",1,1,2211705,178854
+"952","https://dadosabertos.camara.leg.br/api/v2/deputados/178881","Aluisio Mendes",10000,"Deputado",1,1,2211706,178881
+"953","https://dadosabertos.camara.leg.br/api/v2/deputados/178835","Afonso Motta",10000,"Deputado",1,1,2211707,178835
+"954","https://dadosabertos.camara.leg.br/api/v2/deputados/133439","André Figueiredo",10000,"Deputado",1,1,2211822,133439
+"955","https://dadosabertos.camara.leg.br/api/v2/deputados/178975","Baleia Rossi",10000,"Deputado",1,1,2211874,178975
+"956","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2211877,160575
+"957","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2211881,160575
+"958","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2212015,160575
+"959","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2212026,160575
+"960","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2212057,160575
+"961","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2212058,160575
+"962",NA,"LÍDERES PARTIDÁRIOS",22000,"Órgão do Senado Federal",1,1,2212041,NA
+"963","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2212214,160575
+"964","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","Erika Kokay",10000,"Deputado",1,1,2212215,160575
